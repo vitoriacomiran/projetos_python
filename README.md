@@ -28,7 +28,7 @@ Os projetos abrangem desde análise de dados, automações, aplicações com int
 
 ---
 
-### 5. [Projeto Task Automation - Python](./Projeto%20Task%20Automation%20-%20Python)
+### 5. Projeto Task Automation - Python
 > Automação de tarefas rotineiras com Python, incluindo cadastro de produtos, leitura de arquivos e simulações práticas.
 
 ---
