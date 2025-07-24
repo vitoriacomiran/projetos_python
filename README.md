@@ -23,7 +23,7 @@ Os projetos abrangem desde análise de dados, automações, aplicações com int
 
 ---
 
-### 4. Projeto Score Crédito - Python](./Projeto%20Score%20Credito%20-%20Python 
+### 4. Projeto Score Crédito - Python
 > Projeto de machine learning para prever o score de crédito de clientes com base em dados históricos e perfil.
 
 ---
